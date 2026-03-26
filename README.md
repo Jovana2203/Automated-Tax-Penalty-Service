@@ -1,4 +1,5 @@
 Project Overview
+
 This repository contains a core logic engine for a Tax Compliance Management System. It simulates how a government or financial entity processes taxpayers, categorizes business entities, and automatically applies penalties based on payment deadlines.
 
 The project was built to demonstrate robust Object-Oriented Programming (OOP) principles and Business Logic Validation, specifically focusing on common scenarios found in ERP systems like GenTax.
